@@ -1,3 +1,15 @@
+<p align='center'><img style="height:100px;width:100px" src="icon.png" ></p>
+
+<h2 align='center'>SK VIP MODS</h2>
+
+<div align="center">
+
+[![https://telegram.me/Skvipmods](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/Skvipmods)
+
+[![https://telegram.me/Skvipmods](https://img.shields.io/badge/Telegram-@Skvipmods-blue.svg?style=flat-square)](https://telegram.me/Skvipmods)
+
+</div>
+
 # chatgpt-telegram-bot-php
 
 This Is A telegram Bot created using openai api coded in php 
