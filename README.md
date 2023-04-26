@@ -1,11 +1,8 @@
+<h2 align='center'><a href="https://t.me/Skvipmods">SK VIP MODS</a></h2>
 
-
-<h2 align='center'>SK VIP MODS</h2>
-
-<div align="center">
+<div align="center"> 
 
 [![https://telegram.me/Skvipmods](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/Skvipmods)
-
 [![https://telegram.me/Skvipmods](https://img.shields.io/badge/Telegram-@Skvipmods-blue.svg?style=flat-square)](https://telegram.me/Skvipmods)
 
 </div>
