@@ -23,5 +23,4 @@ This Is A telegram Bot created using openai api coded in php
 
 - ```https://api.telegram.org/bot<bottoken>/setWebhook?url=<You Uploaded File Url>```
 
-For Video Tutorial <a href="https://t.me/Skvipmods">click here</a>
-
+💖 For Video Tutorial <a href="https://t.me/Skvipmods">click here</a>
